@@ -1,6 +1,6 @@
 # Facebook-Link-Prediction
 
-Data - Facebook Recruiting Competition.
+Data - Facebook Recruiting Competition. (https://www.kaggle.com/c/FacebookRecruiting/data)
 
 train.csv contains the directed social graph, represented in a 2-column CSV (source_node, destination_node)
 
